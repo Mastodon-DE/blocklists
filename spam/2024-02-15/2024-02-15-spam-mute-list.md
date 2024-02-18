@@ -235,6 +235,9 @@ N/A
 - `phyrexia.ru`
 - `sensitive.hostdon.ne.jp`
 - `thewiring.com`
+- `kernkraft.social`
+- `edusocial.it`
+ 
 
 #### Threat Level 2: Store Spam but no longer send out Spam
 - `freemasonry.social` (*spam paused*) 
