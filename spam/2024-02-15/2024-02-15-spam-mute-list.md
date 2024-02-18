@@ -238,6 +238,8 @@ These instances had spam but since have taken action in order to stop it. If any
 - ~~masto.ukrainedao.love~~ (*fixed*)
 - ~~mastodon.saarland~~ (*fixed*)
 - ~~motern.media~~ (*fixed*)
+- ~~zettel.haus~~ (*fixed - registrations closed*)
+
 
 **Thank you for participating in the Fediverse Experiment!** Keep calm and rest a little after this huge amount of work! <br/> <br/>
 Yours in solidarity, <br/>
