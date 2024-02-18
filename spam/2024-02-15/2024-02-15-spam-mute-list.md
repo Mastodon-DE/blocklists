@@ -106,6 +106,10 @@ N/A
 - `thewiring.com`
 - `kernkraft.social`
 - `edusocial.it`
+- `mastodon-7ecc009c.cloudplane.app`
+- `don.neet.co.jp`
+
+
 
 #### Threat Level 2: Store Spam but no longer send out Spam
 - `freemasonry.social` (*spam paused*) 
