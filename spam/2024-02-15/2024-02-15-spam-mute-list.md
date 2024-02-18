@@ -1,36 +1,35 @@
 # Current Mute List
 Regarding the Fediverse Spam Attacks which started on the 15th of February (ongoing)
 
-**Last Updated:** 2024-02-18 | 14:37 GMT+1
+**Last Updated:** 2024-02-18 | 15:12 GMT+1 <br/>
 **By:** Erik Uden (*mastodon.de, troet.cafe, muenchen.social*)
 
 ## Please Read:
-**How To Ban Spam Accounts Locally (and Sustainably)**
+**How To Ban Spam Accounts Locally (and Sustainably)** <br/>
 https://mastodon.de/@ErikUden/111940301222380638
 
-**Why did this happen?**
+**Why did this happen?** <br/>
 https://fedi.fyralabs.com/notes/9pth6oh3xr
 
 ## Your Instance Should not be here?
 If you're the admin of an instance listed here and you've taken care of the spam issue and do not think what we wrote about your instance here is accurate, or you do not know why you're on this list at all, please message me on Matrix (*[ErikUden:matrix.org](https://matrix.to/#/@erikuden:matrix.org)*) or E-Mail (*[fedi-spam@uden.ai](mailto:fedi-spam@uden.ai)*). I sincerely apologize for putting you on here and causing trouble!
 
 ### Special thanks to:
-- @graphite@eepy.zone for making me aware of this issue (*2024-02-15 | 18:42 GMT+1*)!
-- @martinmuc@muenchen.social for making me aware of this issue (*2024-02-16 | 08:32 GMT+1*)!
-- @Sleagle@mastodon.de for helping me create this spam list!
-- @FanCityKnits@troet.cafe & @catflyhigh@troet.cafe for reporting hundreds of spammers to troet.cafe!
+- [@graphite@eepy.zone](https://eepy.zone/@graphite) for making me aware of this issue (*2024-02-15 | 18:42 GMT+1*)!
+- [@martinmuc@muenchen.social](https://muenchen.social/@martinmuc) for making me aware of this issue (*2024-02-16 | 08:32 GMT+1*)!
+- [@Sleagle@mastodon.de](https://mastodon.de/@Sleagle) for helping me create this spam list!
+- [@FanCityKnits@troet.cafe](https://troet.cafe/@FanCityKnits) & [@catflyhigh@troet.cafe](https://troet.cafe/@catflyhigh) for reporting hundreds of spammers to troet.cafe!
 
-And last but not least I heavily thank [@southernwolf@furry.engineer](https://furry.engineer/@southernwolf), @vavency@kitsunes.gay, @otterX@mindly.social, and @admin@hear-me.social for giving me their updated spam list!
+And last but not least I heavily thank [@southernwolf@furry.engineer](https://furry.engineer/@southernwolf), [@vavency@kitsunes.gay](https://kitsunes.gay/@vavency), [@otterX@mindly.social](https://mindly.social/@otterX), and [@admin@hear-me.social](https://hear-me.social/@admin) for giving me their updated spam list!
 
 
 ## The Mute List
 
-**Download and import the updated list of instances observed to have spam to mute:** [Download Here](https://github.com/Mastodon-DE/blocklists/blob/main/spam/2024-02-15/2024-02-15-spam-domain_mutes-erik-uden.csv). 
-*This includes all instances with a threat level of 1-5*.
-*This list is about 20% of what instances we currently have reported, we are working on getting every instance on here (2024-02-18 | 14:37 GMT+1)*.
-Note that while all instances can be imported with one click, in order to remove them once the spam is over you'll need to remove them all individually. 
+**Download and import the updated list of instances observed to have spam to mute:** [Download Here](https://github.com/Mastodon-DE/blocklists/blob/main/spam/2024-02-15/2024-02-15-spam-domain_mutes-erik-uden.csv). <br/>
+*This includes all instances with a threat level of 1-5*. <br/>
+This list is about 20% of what instances we currently have reported, we are working on getting every instance on here (2024-02-18 | 14:37 GMT+1)*. Note that while all instances can be imported with one click, in order to remove them once the spam is over you'll need to remove them all individually. <br/>
 
-You can simply import that list by going to https://yourinstance.tld/admin/export_domain_blocks/new just replace `yourinstance.tld` with the domain of the instance you are an admin of. 
+You can simply import that list by going to `https://yourinstance.tld/admin/export_domain_blocks/new` just replace `yourinstance.tld` with the domain of the instance you are an admin of. 
 
 Alternatively press on `Settings => Moderation => Federation => Import` to import this list. 
 Note that it only makes sense to import this list and mute the spam instances if you've blocked spam locally and sustainably as described [here](https://mastodon.de/@ErikUden/111940301222380638). 
@@ -53,6 +52,7 @@ REMEMBER THAT DEFEDERATION WITH ANY INSTANCES IS A HARMFUL ACT AS IT SILENTLY RE
 The admins of the below instances have, to the best of my knowledge, not mitigated the spam issue, muting them would be helpful to stop spam reaching your users. 
 
 #### Threat Level 5: Had Spam for a long time
+N/A
 
 #### Threat Level 4: Were previously thought to be safe but still spam
 - `andrew.xyz` (*spam AGAIN*) 
@@ -177,7 +177,7 @@ The admins of the below instances have, to the best of my knowledge, not mitigat
 
 ### Refederate with // Spam stopped
 
-**Threat Level 0: SAFE! Re-Federate with these instances!**
+**Threat Level 0: SAFE! Refederate with these instances!**
 
 These instances had spam but since have taken action in order to stop it. If any other lists tell you to defederate from these instances, they're probably outdated. 
 
@@ -209,4 +209,9 @@ These instances had spam but since have taken action in order to stop it. If any
 - ~~pointbob.org~~ (*fixed*) 
 - ~~xn--zck4ad5f2e.xn--q9jyb4c~~ (*fixed*) 
 - ~~drobny.blog~~ (*fixed*) 
-- ~~ticos.social~~ (*fixed*) 
+- ~~ticos.social~~ (*fixed*)
+
+**Thank you for participating in the Fediverse Experiment!** Keep calm and rest a little after this huge amount of work! <br/> <br/>
+Yours in solidarity, <br/>
+[Erik Uden](https://erikuden.com) <br/>
+*Creator of mastodon.de*
