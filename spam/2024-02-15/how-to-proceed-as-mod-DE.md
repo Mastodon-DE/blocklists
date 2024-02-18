@@ -4,8 +4,9 @@
 
 Du musst auf die Instanz, wie in der Liste beschrieben, gehen und sehen ob auf der öffentlichen lokalen timeline sichtbar ist das der Spam noch auftritt.
 
-https://instancedomain.tld/public/local 
-(*ersetze "instancedomain.tld" mit der Domain der ggf. Spam betroffenen Instanz*). 
+https://instancedomain.tld/public/local (*Mastodon*)
+https://instancedomain.tld/timeline (*Misskey/Firefish/Iceshrimp, etc.*)
+(*ersetze "instancedomain.tld" mit der Domain der ggf. Spam betroffenen Instanz*)
 
 ### Falls dort Spam ist
 
