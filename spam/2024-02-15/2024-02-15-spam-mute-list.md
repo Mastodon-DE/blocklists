@@ -15,7 +15,7 @@ https://fedi.fyralabs.com/notes/9pth6oh3xr
 If you're the admin of an instance listed here and you've taken care of the spam issue and do not think what we wrote about your instance here is accurate, or you do not know why you're on this list at all, please message me on Matrix (*[ErikUden:matrix.org](https://matrix.to/#/@erikuden:matrix.org)*) or E-Mail (*[fedi-spam@uden.ai](mailto:fedi-spam@uden.ai)*). I sincerely apologize for putting you on here and causing trouble!
 
 ### Special thanks to:
-- [@graphite@eepy.zone](https://eepy.zone/@graphite) for making me aware of this issue (*2024-02-15 | 18:42 GMT+1*)!
+- [@graphite@eepy.zone](https://shonk.phite.ro/@graphite) for making me aware of this issue (*2024-02-15 | 18:42 GMT+1*)!
 - [@martinmuc@muenchen.social](https://muenchen.social/@martinmuc) for making me aware of this issue (*2024-02-16 | 08:32 GMT+1*)!
 - [@Sleagle@mastodon.de](https://mastodon.de/@Sleagle) for helping me create this spam list!
 - [@FanCityKnits@troet.cafe](https://troet.cafe/@FanCityKnits) & [@catflyhigh@troet.cafe](https://troet.cafe/@catflyhigh) for reporting hundreds of spammers to troet.cafe!
@@ -112,8 +112,6 @@ N/A
 - `lllsecurity.com`
 
  
- 
-
 
 
 #### Threat Level 2: Store Spam but no longer send out Spam
