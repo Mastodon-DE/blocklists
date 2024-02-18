@@ -155,6 +155,39 @@ N/A
 - `beyond.forum`
 - `mastonederland.nl`
 - `daotodon.me`
+- `kokuusa.club`
+- `azemet.space`
+- `games.retrotalk.live`
+- `tech.retrotalk.live`
+- `cmm.fyi`
+- `mastodon.wssmagazine.com`
+- `forestver.se`
+- `social.spicysources.de`
+- `mastodon.creation.md`
+- `mastodon.zorqz.com`
+- `mastodon.starnet.cz`
+- `social.foederiert.de`
+- `nog.community`
+- `kotodama.space`
+- `utter.online`
+- `makersocial.online`
+- `westen.social`
+- `folksocial.org`
+- `onion.social`
+- `e.fo`
+- `0x3c.pl`
+- `witten.social`
+- `mastodon.preppers-shelter.nl`
+- `groupsebelah.com`
+- `occitania.social`
+- `430022.xyz`
+- `kotodama.space`
+- `edusocial.it`
+- `smooth.guru`
+- `terere.social`
+- `spurlock.social`
+- `thoughtful.social`
+- `educhat.social` 
 
 #### Threat Level 2: Store Spam but no longer send out Spam
 - `freemasonry.social` (*spam paused*) 
@@ -210,6 +243,11 @@ These instances had spam but since have taken action in order to stop it. If any
 - ~~xn--zck4ad5f2e.xn--q9jyb4c~~ (*fixed*) 
 - ~~drobny.blog~~ (*fixed*) 
 - ~~ticos.social~~ (*fixed*)
+- ~~ioc.exchange~~ (*fixed*) 
+- ~~zirk.us~~ (*fixed*) 
+- ~~cryptodon.chat~~ (*fixed*) 
+- ~~comunitate.ascorcluj.com~~ (*fixed*) 
+- ~~mastodonters.nl~~ (*fixed*) 
 
 **Thank you for participating in the Fediverse Experiment!** Keep calm and rest a little after this huge amount of work! <br/> <br/>
 Yours in solidarity, <br/>
