@@ -1,7 +1,7 @@
 # Current Mute List
 Regarding the Fediverse Spam Attacks which started on the 15th of February (ongoing)
 
-**Last Updated:** 2024-02-18 | 15:12 GMT+1 <br/>
+**Last Updated:** 2024-02-18 | 20:16 GMT+1 <br/>
 **By:** Erik Uden (*mastodon.de, troet.cafe, muenchen.social*)
 
 ## Please Read:
@@ -55,127 +55,59 @@ The admins of the below instances have, to the best of my knowledge, not mitigat
 N/A
 
 #### Threat Level 4: Were previously thought to be safe but still spam
-- `andrew.xyz` (*spam AGAIN*) 
-- `mastodon-swiss.org` (*spam AGAIN*)
 - `squabble.org` (*Spam AGAIN*) 
-- `fckmsk.social` (*Spam AGAIN*) 
+
 
 #### Threat Level 3: Currently sending out spam posts
-- `prf.me`
-- `m.qqs.tw`
-- `mstdn.at`
-- `odenwald.social`
-- `fpl.social`
-- `moth.social`
+
 - `nycity.social`
-- `mastodon.r3networks.uk`
-- `mastodon.joaoleitao.org`
 - `ellis.social`
 - `mastdn.social`
-- `xreality.social`
-- `rettiwtkcuf.social`
 - `onlybsds.com`
-- `social.boom.army`
-- `social.nofftopia.com`
-- `selfhosted.cafe`
-- `meow.lgbt`
-- `netcup.social`
-- `mstdn.funil.de`
-- `mastodon.thedirtydis.co`
-- `social.learntosolveit.com`
-- `phoenixradio1208.com`
 - `scfzfilm.org`
-- `queer.dev`
-- `rabbitrabbitbrownrabbit.hostdon.ne.jp`
 - `freesocial.co`
 - `osten.social`
-- `so.eddyn.net`
 - `educhat.social`
 - `cryptodon.lol`
-- `twitchfr.social`
-- `graeber.social`
 - `mastodon.acm.org`
-- `naturalstate.social`
-- `social.pogo.community`
-- `federated.place`
-- `mastnode.faith`
 - `fusionpros.social`
-- `social.territorisostenibili.org`
 - `mastodon.mg`
-- `azemet.space`
-- `games.retrotalk.live`
-- `tech.retrotalk.live`
 - `cmm.fyi`
-- `mastodon.wssmagazine.com`
 - `forestver.se`
-- `social.spicysources.de`
 - `mastodon.creation.md`
-- `mastodon.starnet.cz`
 - `social.foederiert.de`
-- `nog.community`
 - `westen.social`
 - `folksocial.org`
 - `onion.social`
-- `e.fo`
-- `0x3c.pl`
 - `witten.social`
-- `mastodon.preppers-shelter.nl`
-- `occitania.social`
 - `430022.xyz`
 - `kotodama.space`
 - `smooth.guru`
 - `terere.social`
-- `spurlock.social`
-- `thoughtful.social`
 - `educhat.social` 
 - `social.cezeri.tech` 
 - `9kb.me`
-- `mastonederland.nl`
 - `daotodon.me`
-- `modelrailroadballast.com`
-- `social.bigcavemaps.com` 
 - `airwaves.social`
 - `madworld.social`
 - `cherryberry.pink`
-- `mastodon.io.seg.br`
 - `kommunismus.social`
-- `pxlmo.net` 
 - `estrogen.cat`
 - `mastodon.london`
 - `bondsdogs.com`
-- `pxlmo.net`
-- `azemet.space` 
-- `thebigeasy.space`
 - `forum-lucifer.com`
 - `neuroscience-mastodon.com`
-- `cybersecurity.masto.host`
-- `beyond.forum`
 - `mastodon.svgun.ru` 
 - `portside.social`
 - `mastodon.zorqz.com`
-- `kopimi.space`
-- `makersocial.online`
-- `mastodon.caruhel.fr`
-- `semiosen.de`
-- `toot.fan` 
-- `utter.online`
-- `mastodon-omikron-alpha.net`
-- `social.kyiv.dcomm.net.ua`
 - `social.consoledated.com`
-- `adforward.org`
-- `devsrv.farhan.codes`
-- `game-tecx.de` 
+- `game-tecx.de`
 - `groupsebelah.com`
 - `kokuusa.club`
-- `masto.ukrainedao.love`
-- `mastodon.saarland`
-- `motern.media`
 - `phyrexia.ru`
-- `sensitive.hostdon.ne.jp`
 - `thewiring.com`
 - `kernkraft.social`
 - `edusocial.it`
- 
 
 #### Threat Level 2: Store Spam but no longer send out Spam
 - `freemasonry.social` (*spam paused*) 
@@ -188,13 +120,24 @@ N/A
 - `america.social` (*spam paused*)
 - `tribe.net` (*spam paused*)
 - `dabzyum.masto.host` (*spam paused*) 
+- `mastodon-swiss.org` (*spam paused*)
+- `thoughtful.social` (*spam paused*)
+- `pxlmo.net` (*spam paused*)
+- `adforward.org` (*spam paused*)
+- `sensitive.hostdon.ne.jp` (*spam paused*)
 
 #### Threat Level 1: Offline / Can't load home timeline
 - `cunnyborea.top` (*can't load home timeline*) 
 - `social.learntosolveit.com` (*can't see home timeline*) 
 - `social.cutefunny.net` (*offline*)
 - `mastodon.thedirtydis.co` (*offline*)
-- `mastodonters.nl` (*empty*)
+- `m.qqs.tw` (*can't see home timeline*)
+- `mastodon.thedirtydis.co` (*offline*)
+- `games.retrotalk.live` (*offline*)
+- `tech.retrotalk.live` (*offline*)
+- `mastodon.io.seg.br` (*home timeline empty*)
+- `mastodon-omikron-alpha.net` (*offline*)
+- `devsrv.farhan.codes` (*offline*)
 
 ### Refederate with // Spam stopped
 
@@ -204,7 +147,6 @@ These instances had spam but since have taken action in order to stop it. If any
 
 - ~~m.mxin.moe~~ (*[fixed](https://m.mxin.moe/notes/9pru8c2off9343gb)*) 
 - ~~friendsyu.me~~ (*[fixed](https://friendsyu.me/notes/718dadc340bad251d7df82db)*) 
-- ~~mastodon-swiss.org~~ (*fixed*)
 - ~~wehavecookies.social~~ (*[fixed](https://wehavecookies.social/@admin/111939992679250475)*) 
 - ~~planetearth.social~~ (*[fixed](https://planetearth.social/@leon/111940469269635302)*) 
 - ~~det.social~~ (*[fixed](https://det.social/@stefan/111940822126104456)*) 
@@ -218,7 +160,7 @@ These instances had spam but since have taken action in order to stop it. If any
 - ~~fanfare.horse~~ (*fixed*) 
 - ~~fluffs.au~~ (*fixed*) 
 - ~~autistics.life~~ (*fixed*) 
-- ~~social.esmarconf.org~~ (*fixed*) 
+- ~~social.esmarconf.org~~ (*[fixed](https://social.esmarconf.org/@chris/111952126816687562)*) 
 - ~~idic.social~~ (*fixed*) 
 - ~~glasgow.social~~ (*fixed*) 
 - ~~mas.atmx.ca~~ (*fixed*)  
@@ -239,6 +181,61 @@ These instances had spam but since have taken action in order to stop it. If any
 - ~~social.uggs.io~~ (*[fixed](https://social.uggs.io/@chris/111951500021651571)*)
 - ~~vacatureforum.nl~~ (*fixed*) 
 - ~~home.speakfree.social~~ (*fixed*) 
+- ~~andrew.xyz~~ (*fixed*) 
+- ~~fckmsk.social~~ (*fixed*) 
+- ~~prf.me~~ (*fixed*) 
+- ~~mstdn.at~~ (*fixed*)
+- ~~odenwald.social~~ (*[fixed](https://odenwald.social/@thierolfOrg/111952822485653582)*)
+- ~~fpl.social~~ (*fixed*)
+- ~~moth.social~~ (*fixed*)
+- ~~mastodon.r3networks.uk~~ (*fixed*)
+- ~~mastodon.joaoleitao.org~~ (*fixed*)
+- ~~xreality.social~~ (*fixed*)
+- ~~rettiwtkcuf.social~~ (*[fixed](https://rettiwtkcuf.social/@rfrederick/111948587691795517)*)
+- ~~social.boom.army~~ (*fixed*)
+- ~~social.nofftopia.com~~ (*fixed*)
+- ~~selfhosted.cafe~~ (*fixed*)
+- ~~meow.lgbt~~ (*[fixed](https://meow.lgbt/@cassaundra/111948757046811977)*)
+- ~~netcup.social~~ (*fixed*)
+- ~~mstdn.funil.de~~ (*fixed*)
+- ~~social.learntosolveit.com~~ (*fixed*)
+- ~~social.phoenixradio1208.com~~ (*fixed*)
+- ~~queer.dev~~ (*[fixed](https://queer.dev/@furioursus/111953713241732551)*)
+- ~~rabbitrabbitbrownrabbit.hostdon.ne.jp~~ (*fixed*)
+- ~~so.eddyn.net~~ (*fixed*)
+- ~~twitchfr.social~~ (*fixed*)
+- ~~graeber.social~~ (*fixed*)
+- ~~naturalstate.social~~ (*fixed*)
+- ~~social.pogo.community~~ (*fixed*)
+- ~~federated.place~~ (*fixed*)
+- ~~mastnode.faith~~ (*fixed*)
+- ~~social.territorisostenibili.org~~ (*fixed*)
+- ~~azemet.space~~ (*fixed*)
+- ~~mastodon.wssmagazine.com~~ (*fixed*)
+- ~~social.spicysources.de~~ (*fixed*)
+- ~~mastodon.starnet.cz~~ (*[fixed](https://mastodon.starnet.cz/@darius/111948349617265733)*)
+- ~~nog.community~~ (*fixed*)
+- ~~e.fo~~ (*fixed*)
+- ~~0x3c.pl~~ (*[fixed](https://0x3c.pl/@centrala/111951816200466414)*)
+- ~~mastodon.preppers-shelter.nl~~ (*fixed*)
+- ~~occitania.social~~ (*fixed*)
+- ~~spurlock.social~~ (*fixed*)
+- ~~mastonederland.nl~~ (*fixed*)
+- ~~modelrailroadballast.com~~ (*fixed*)
+- ~~social.bigcavemaps.com~~ (*fixed*)
+- ~~thebigeasy.space~~ (*fixed*)
+- ~~cybersecurity.masto.host~~ (*fixed*)
+- ~~beyond.forum~~ (*fixed*)
+- ~~kopimi.space~~ (*fixed*)
+- ~~makersocial.online~~ (*fixed*)
+- ~~mastodon.caruhel.fr~~ (*fixed*)
+- ~~semiosen.de~~ (*fixed*)
+- ~~toot.fan~~ (*fixed*)
+- ~~utter.online~~ (*fixed*)
+- ~~social.kyiv.dcomm.net.ua~~ (*fixed*)
+- ~~masto.ukrainedao.love~~ (*fixed*)
+- ~~mastodon.saarland~~ (*fixed*)
+- ~~motern.media~~ (*fixed*)
 
 **Thank you for participating in the Fediverse Experiment!** Keep calm and rest a little after this huge amount of work! <br/> <br/>
 Yours in solidarity, <br/>
