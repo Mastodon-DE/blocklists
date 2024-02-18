@@ -67,7 +67,6 @@ N/A
 - `osten.social`
 - `educhat.social`
 - `cryptodon.lol`
-- `mastodon.acm.org`
 - `fusionpros.social`
 - `mastodon.mg`
 - `cmm.fyi`
@@ -243,6 +242,7 @@ These instances had spam but since have taken action in order to stop it. If any
 - ~~motern.media~~ (*fixed*)
 - ~~zettel.haus~~ (*fixed - registrations closed*)
 - ~~mastodon-7ecc009c.cloudplane.app~~ (*[fixed](https://mastodon.social/@jgillich/111954534135620431)*)
+- ~~mastodon.acm.org~~ (*[fixed](https://toot.io/@jan/111954641602936850)*)
 
 
 
