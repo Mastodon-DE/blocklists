@@ -72,7 +72,7 @@ N/A
 - `mastodon.joaoleitao.org`
 - `ellis.social`
 - `mastdn.social`
-- `social.uggs.io`
+
 - `xreality.social`
 - `social.consoledated.com`
 - `rettiwtkcuf.social`
@@ -188,6 +188,53 @@ N/A
 - `spurlock.social`
 - `thoughtful.social`
 - `educhat.social` 
+- `social.cezeri.tech` 
+- `cherryberry.pink`
+- `9kb.me`
+- `mastonederland.nl`
+- `daotodon.me`
+- `modelrailroadballast.com`
+- `social.bigcavemaps.com` 
+- `airwaves.social`
+- `madworld.social`
+- `cherryberry.pink`
+- `mastodon.io.seg.br`
+- `kommunismus.social`
+- `pxlmo.net` 
+- `estrogen.cat`
+- `mastodon.london`
+- `mastodon.saarland`
+- `bondsdogs.com`
+- `pxlmo.net`
+- `azemet.space` 
+- `thebigeasy.space`
+- `forum-lucifer.com`
+- `neuroscience-mastodon.com`
+- `cybersecurity.masto.host`
+- `beyond.forum`
+- `mastodon.svgun.ru` 
+- `portside.social`
+- `mastodon.zorqz.com`
+- `kopimi.space`
+- `makersocial.online`
+- `mastodon.caruhel.fr`
+- `semiosen.de`
+- `toot.fan` 
+- `utter.online`
+- `mastodon-omikron-alpha.net`
+- `social.kyiv.dcomm.net.ua`
+- `social.consoledated.com`
+- `adforward.org`
+- `devsrv.farhan.codes`
+- `game-tecx.de` 
+- `groupsebelah.com`
+- `kokuusa.club`
+- `masto.ukrainedao.love`
+- `mastodon.saarland`
+- `motern.media`
+- `phyrexia.ru`
+- `sensitive.hostdon.ne.jp`
+- `thewiring.com`
 
 #### Threat Level 2: Store Spam but no longer send out Spam
 - `freemasonry.social` (*spam paused*) 
@@ -247,7 +294,10 @@ These instances had spam but since have taken action in order to stop it. If any
 - ~~zirk.us~~ (*fixed*) 
 - ~~cryptodon.chat~~ (*fixed*) 
 - ~~comunitate.ascorcluj.com~~ (*fixed*) 
-- ~~mastodonters.nl~~ (*fixed*) 
+- ~~mastodonters.nl~~ (*fixed*)
+- ~~social.uggs.io~~ (*[fixed](https://social.uggs.io/@chris/111951500021651571)*)
+- ~~vacatureforum.nl~~ (*fixed*) 
+- ~~home.speakfree.social~~ (*fixed*) 
 
 **Thank you for participating in the Fediverse Experiment!** Keep calm and rest a little after this huge amount of work! <br/> <br/>
 Yours in solidarity, <br/>
