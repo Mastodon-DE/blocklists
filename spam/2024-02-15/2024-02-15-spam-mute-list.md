@@ -8,7 +8,7 @@ Regarding the Fediverse Spam Attacks which started on the 15th of February (ongo
 **How To Ban Spam Accounts Locally (and Sustainably)** <br/>
 https://mastodon.de/@ErikUden/111940301222380638
 
-**Why did this happen?** <br/>
+**Why did this Spam happen?** <br/>
 https://fedi.fyralabs.com/notes/9pth6oh3xr
 
 ## Your Instance Should not be here?
@@ -27,14 +27,12 @@ And last but not least I heavily thank [@southernwolf@furry.engineer](https://fu
 
 **Download and import the updated list of instances observed to have spam to mute:** [Download Here](https://github.com/Mastodon-DE/blocklists/blob/main/spam/2024-02-15/2024-02-15-spam-domain_mutes-erik-uden.csv). <br/>
 *This includes all instances with a threat level of 1-5*. <br/>
-This list is about 20% of what instances we currently have reported, we are working on getting every instance on here (2024-02-18 | 14:37 GMT+1)*. Note that while all instances can be imported with one click, in order to remove them once the spam is over you'll need to remove them all individually. <br/>
+This list is about 100% of what instances we currently have reported (2024-02-18 | 20:37 GMT+1)*. Note that while all instances can be imported with one click, in order to remove them once the spam is over you'll need to remove them all individually. <br/>
 
 You can simply import that list by going to `https://yourinstance.tld/admin/export_domain_blocks/new` just replace `yourinstance.tld` with the domain of the instance you are an admin of. 
 
 Alternatively press on `Settings => Moderation => Federation => Import` to import this list. 
 Note that it only makes sense to import this list and mute the spam instances if you've blocked spam locally and sustainably as described [here](https://mastodon.de/@ErikUden/111940301222380638). 
-
-REMEMBER THAT DEFEDERATION WITH ANY INSTANCES IS A HARMFUL ACT AS IT SILENTLY REMOVES ALL FOLLOWERS FROM AND TO THAT INSTANCE FROM YOURS WHICH CANNOT BE UNDONE. Prefer limiting (*i.e. muting*) instances over defederating from them entirely! 
 
 ***Explanation/Glossary:***
 
@@ -139,9 +137,9 @@ N/A
 - `mastodon-omikron-alpha.net` (*offline*)
 - `devsrv.farhan.codes` (*offline*)
 
-### Refederate with // Spam stopped
+### Refederate with or unmute // Spam stopped
 
-**Threat Level 0: SAFE! Refederate with these instances!**
+**Threat Level 0: SAFE! Refederate with or unmute these instances!**
 
 These instances had spam but since have taken action in order to stop it. If any other lists tell you to defederate from these instances, they're probably outdated. 
 
