@@ -106,7 +106,6 @@ N/A
 - `thewiring.com`
 - `kernkraft.social`
 - `edusocial.it`
-- `mastodon-7ecc009c.cloudplane.app`
 - `don.neet.co.jp`
 
 
@@ -239,6 +238,8 @@ These instances had spam but since have taken action in order to stop it. If any
 - ~~mastodon.saarland~~ (*fixed*)
 - ~~motern.media~~ (*fixed*)
 - ~~zettel.haus~~ (*fixed - registrations closed*)
+- ~~mastodon-7ecc009c.cloudplane.app~~ (*[fixed](https://mastodon.social/@jgillich/111954534135620431)*)
+
 
 
 **Thank you for participating in the Fediverse Experiment!** Keep calm and rest a little after this huge amount of work! <br/> <br/>
