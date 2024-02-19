@@ -67,7 +67,6 @@ N/A
 - `osten.social`
 - `educhat.social`
 - `cryptodon.lol`
-- `mastodon.acm.org`
 - `fusionpros.social`
 - `mastodon.mg`
 - `cmm.fyi`
@@ -244,7 +243,14 @@ These instances had spam but since have taken action in order to stop it. If any
 - ~~zettel.haus~~ (*fixed - registrations closed*)
 - ~~mastodon-7ecc009c.cloudplane.app~~ (*[fixed](https://mastodon.social/@jgillich/111954534135620431)*)
 - ~~freie-re.de~~ (*[fixed](https://freie-re.de/@mastoadmin/111945738954430760)*)
-
+- ~~mastodon.acm.org~~ (*[fixed](https://toot.io/@jan/111954641602936850)*)
+- ~~foss.place~~ (*[fixed](https://old.mermaid.town/@futzle/111950327071885006)*)
+- ~~mastodon-belgium.be~~ (*[fixed](https://old.mermaid.town/@futzle/111950327071885006)*)
+- ~~asturias.red~~ (*[fixed](https://old.mermaid.town/@futzle/111950327071885006)*)
+- ~~dreamersreality.dev~~ (*[fixed](https://old.mermaid.town/@futzle/111950327071885006)*)
+- ~~redpawcollective.co~~ (*[fixed](https://old.mermaid.town/@futzle/111950327071885006)*)
+- ~~mastodon.chrisduffley.com~~ (*[fixed](https://old.mermaid.town/@futzle/111950327071885006)*)
+- ~~krems.social~~ (*[fixed](https://old.mermaid.town/@futzle/111950327071885006)*)
 
 
 **Thank you for participating in the Fediverse Experiment!** Keep calm and rest a little after this huge amount of work! <br/> <br/>
