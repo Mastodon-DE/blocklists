@@ -242,6 +242,7 @@ These instances had spam but since have taken action in order to stop it. If any
 - ~~motern.media~~ (*fixed*)
 - ~~zettel.haus~~ (*fixed - registrations closed*)
 - ~~mastodon-7ecc009c.cloudplane.app~~ (*[fixed](https://mastodon.social/@jgillich/111954534135620431)*)
+- ~~freie-re.de~~ (*[fixed](https://freie-re.de/@mastoadmin/111945738954430760)*)
 - ~~mastodon.acm.org~~ (*[fixed](https://toot.io/@jan/111954641602936850)*)
 - ~~foss.place~~ (*[fixed](https://old.mermaid.town/@futzle/111950327071885006)*)
 - ~~mastodon-belgium.be~~ (*[fixed](https://old.mermaid.town/@futzle/111950327071885006)*)
