@@ -103,8 +103,9 @@ The admins of the below instances have, to the best of my knowledge, not mitigat
 - `toot.poedelwitz.de`
 - `neuss.social`
 - `cuyes.mooo.com`
-- `archaeology.social`
-
+- `archaeology.social` 
+- `nasface.cz`
+- `quakers.social` 
 
 
 #### Threat Level 2: Store Spam but no longer send out Spam
@@ -278,7 +279,6 @@ These instances had spam but since have taken action in order to stop it. If any
 - ~~nycity.social~~ (*[fixed](https://drive.proton.me/urls/ZMYAJPDF54#II2wUrd7FITp)*)
 - ~~opensimsocial.com~~ (*[fixed](https://drive.proton.me/urls/ZMYAJPDF54#II2wUrd7FITp)*)
 - ~~osten.social~~ (*[fixed](https://drive.proton.me/urls/ZMYAJPDF54#II2wUrd7FITp)*)
-- ~~pouet.evolix.org~~ (*[fixed](https://drive.proton.me/urls/ZMYAJPDF54#II2wUrd7FITp)*)
 - ~~pxlmo.net~~ (*[fixed](https://drive.proton.me/urls/ZMYAJPDF54#II2wUrd7FITp)*)
 - ~~shotgunlife.social~~ (*[fixed](https://drive.proton.me/urls/ZMYAJPDF54#II2wUrd7FITp)*)
 - ~~social.cezeri.tech~~ (*[fixed](https://drive.proton.me/urls/ZMYAJPDF54#II2wUrd7FITp)*)
