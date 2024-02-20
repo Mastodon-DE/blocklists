@@ -101,6 +101,10 @@ The admins of the below instances have, to the best of my knowledge, not mitigat
 - `m.corduba.tech`
 - `owo.town`
 - `toot.poedelwitz.de`
+- `neuss.social`
+- `cuyes.mooo.com`
+- `archaeology.social`
+
 
 
 #### Threat Level 2: Store Spam but no longer send out Spam
@@ -110,7 +114,6 @@ The admins of the below instances have, to the best of my knowledge, not mitigat
 - `terapeldigitaal.nl` (*spam paused*)
 - `worldtravel.photos` (*spam paused*)
 - `america.social` (*spam paused*)
-- `tribe.net` (*spam paused*)
 - `thoughtful.social` (*spam paused*)
 - `adforward.org` (*spam paused*)
 - `sensitive.hostdon.ne.jp` (*spam paused*)
@@ -302,7 +305,7 @@ These instances had spam but since have taken action in order to stop it. If any
 - ~~honk.masto.host~~ (*fixed*)
 - ~~basstdn.jp~~ (*fixed*)
 - ~~library.love~~ (*fixed*)
-
+- ~~tribe.net~~ (*fixed*)
 
 **Thank you for participating in the Fediverse Experiment!** Keep calm and rest a little after this huge amount of work! <br/> <br/>
 Yours in solidarity, <br/>
