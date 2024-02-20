@@ -1,7 +1,7 @@
 # Current Mute List
 Regarding the Fediverse Spam Attacks which started on the 15th of February (ongoing)
 
-**Last Updated:** 2024-02-18 | 20:16 GMT+1 <br/>
+**Last Updated:** 2024-02-20 | 14:22 GMT+1 <br/>
 **By:** Erik Uden (*mastodon.de, troet.cafe, muenchen.social*)
 
 ## Please Read:
