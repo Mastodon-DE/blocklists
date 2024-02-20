@@ -64,7 +64,6 @@ The admins of the below instances have, to the best of my knowledge, not mitigat
 - `educhat.social`
 - `cherryberry.pink`
 - `9kb.me` (*new iteration of same spam detected*)
-- `portside.social`
 - `kernkraft.social`
 - `kommunismus.social`
 - `bondsdogs.com`
@@ -157,6 +156,7 @@ The admins of the below instances have, to the best of my knowledge, not mitigat
 
 These instances had spam but since have taken action in order to stop it. If any other lists tell you to defederate from these instances, they're probably outdated. 
 
+- ~~portside.social~~ (*[fixed](https://portside.social/@ps_social_admin/111964603874942602)*)
 - ~~m.mxin.moe~~ (*[fixed](https://m.mxin.moe/notes/9pru8c2off9343gb)*) 
 - ~~friendsyu.me~~ (*[fixed](https://friendsyu.me/notes/718dadc340bad251d7df82db)*) 
 - ~~wehavecookies.social~~ (*[fixed](https://wehavecookies.social/@admin/111939992679250475)*) 
