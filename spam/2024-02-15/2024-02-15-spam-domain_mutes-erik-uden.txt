@@ -58,6 +58,7 @@ mastodon.snmsoc.org
 mastodon.svgun.ru
 mastodon.thedirtydis.co
 mastodon.unpluggedrva.com
+masto.ukrainedao.love
 mentalhealth-masto.com
 mentalhealthmasto.com
 molaguay.xyz

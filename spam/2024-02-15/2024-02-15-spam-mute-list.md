@@ -76,6 +76,7 @@ The admins of the below instances have, to the best of my knowledge, not mitigat
 #### Threat Level 4: Were previously thought to be safe but still spam
 - `dreamersreality.dev` 
 - `library.love`
+- `masto.ukrainedao.love`
 
 
 #### Threat Level 3: Currently sending out spam posts
@@ -252,7 +253,6 @@ These instances had spam but since have taken action in order to stop it. If any
 - ~~toot.fan~~ (*fixed*)
 - ~~utter.online~~ (*fixed*)
 - ~~social.kyiv.dcomm.net.ua~~ (*fixed*)
-- ~~masto.ukrainedao.love~~ (*fixed*)
 - ~~mastodon.saarland~~ (*fixed*)
 - ~~motern.media~~ (*fixed*)
 - ~~mastodon-7ecc009c.cloudplane.app~~ (*[fixed](https://mastodon.social/@jgillich/111954534135620431)*)
