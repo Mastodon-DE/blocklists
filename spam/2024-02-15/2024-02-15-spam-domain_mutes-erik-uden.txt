@@ -5,13 +5,16 @@ aether.run
 airwaves.social
 archaeology.social
 besties.com
+bigballchunkyverse.online
 bondsdogs.com
 cherryberry.pink
+closednetwork.social
 cmm.fyi
 cryptodon.lol
 crosstalk.tech 
 cunnyborea.top
 cuyes.mooo.com
+detmi.social
 developers.live
 devsrv.farhan.codes
 digitaldata.social
@@ -23,6 +26,7 @@ educhat.social
 edusocial.it
 electroverse.tech
 esglife.social
+exmormon.social
 fediverse.science
 forestver.se
 forum-lucifer.com
@@ -32,6 +36,7 @@ game-tecx.de
 games.retrotalk.live
 groupsebelah.com
 hdty.in
+iaccessibility.social
 i.transmit.love
 kernkraft.social
 kfem.cat
@@ -52,6 +57,7 @@ mastodon.dragonbox.de
 mastodon.education
 mastodon.integrata-stiftung.de
 mastodon.io.seg.br
+mastodon.miri.site
 mastodon.my
 mastodon.snmsoc.org
 mastodon.svgun.ru
@@ -72,8 +78,10 @@ onlybsds.com
 owo.town
 parkfans.network
 phyrexia.ru
+pkm.social
 pouet.evolix.org
 quakers.social
+redwings.social
 rope-access-work.com
 rtypedbs.hostdon.ne.jp
 rtypedbs.hostdon.ne.jp
