@@ -12,6 +12,9 @@ https://mastodon.de/@ErikUden/111940301222380638
 https://fedi.fyralabs.com/notes/9pth6oh3xr
 Apparently the people behind this spam have been arrested in Japan, it is still ongoing with a new method, however. An investigative report will follow by the Fyra Labs Crew. 
 
+**Also Note** <br/>
+Importing this list will not affect the status of instances you have already moderated! While all this list does is mute, if any of the instances on this list are already suspended by you, that entry will not be changed (*on Mastodon*). 
+
 ## Please Donate!
 **I've worked on this list for the good part of many days!** I am a university student, local politician, I run and organize food drives once a month, I run a holocaust remembrance museum, and *on the side* do these Mastodon instances (*troet.cafe, mastodon.de, muenchen.social*), which is why I would highly appreciate it for you to **[donate here](https://mastodon.de/@MastodonDE/110808633497349326)** so I can somehow justify spending so much time on this! Heh. 
 

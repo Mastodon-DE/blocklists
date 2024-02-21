@@ -3,6 +3,7 @@ academia.pub
 adforward.org
 aether.run
 airwaves.social
+america.social
 archaeology.social
 besties.com
 bigballchunkyverse.online
@@ -22,11 +23,11 @@ discourse.helenprejean.org
 don.blognot.co
 don.neet.co.jp
 dreamersreality.dev
+dtris.moe
 educhat.social
 edusocial.it
 electroverse.tech
 esglife.social
-exmormon.social
 fediverse.science
 forestver.se
 forum-lucifer.com
@@ -36,7 +37,6 @@ game-tecx.de
 games.retrotalk.live
 groupsebelah.com
 hdty.in
-iaccessibility.social
 i.transmit.love
 kernkraft.social
 kfem.cat
@@ -57,13 +57,11 @@ mastodon.dragonbox.de
 mastodon.education
 mastodon.integrata-stiftung.de
 mastodon.io.seg.br
-mastodon.miri.site
 mastodon.my
 mastodon.snmsoc.org
 mastodon.svgun.ru
 mastodon.thedirtydis.co
 mastodon.unpluggedrva.com
-masto.ukrainedao.love
 mentalhealth-masto.com
 mentalhealthmasto.com
 molaguay.xyz
@@ -78,10 +76,8 @@ onlybsds.com
 owo.town
 parkfans.network
 phyrexia.ru
-pkm.social
 pouet.evolix.org
 quakers.social
-redwings.social
 rope-access-work.com
 rtypedbs.hostdon.ne.jp
 rtypedbs.hostdon.ne.jp
@@ -99,6 +95,7 @@ teamhydra.social
 tech.retrotalk.live
 terere.social
 thoughtful.social
+themeparks.social
 toot.poedelwitz.de
 tootnet.nl
 toot.quest
