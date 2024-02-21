@@ -313,6 +313,7 @@ These instances had spam but since have taken action in order to stop it. If any
 - ~~tribe.net~~ (*fixed*)
 - ~~daytongang.social~~ (*fixed*)
 - ~~mastodon.berlin~~ (*fixed*)
+- ~~fedibird.com~~ (*[fixed](https://fedibird.com/@noellabo/111969334550914142)*)
 
 **Thank you for participating in the Fediverse Experiment!** Keep calm and rest a little after this huge amount of work! <br/> <br/>
 Yours in solidarity, <br/>

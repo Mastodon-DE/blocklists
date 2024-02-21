@@ -23,7 +23,6 @@ educhat.social
 edusocial.it
 electroverse.tech
 esglife.social
-fedibird.com
 fediverse.science
 forestver.se
 forum-lucifer.com
