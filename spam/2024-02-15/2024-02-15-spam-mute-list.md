@@ -1,7 +1,7 @@
 # Current Mute List
 Regarding the Fediverse Spam Attacks which started on the 15th of February (ongoing)
 
-**Last Updated:** 2024-02-21 | 12:24 GMT+1 <br/>
+**Last Updated:** 2024-02-21 | 13:19 GMT+1 <br/>
 **By:** Erik Uden (*mastodon.de, troet.cafe, muenchen.social*)
 
 ## Please Read:
@@ -73,7 +73,8 @@ The admins of the below instances have, to the best of my knowledge, not mitigat
 - `mastodon.svgun.ru` 
 
 #### Threat Level 4: Were previously thought to be safe but still spam
-- N/A
+- `dreamersreality.dev` 
+- `library.love`
 
 
 #### Threat Level 3: Currently sending out spam posts
@@ -105,8 +106,15 @@ The admins of the below instances have, to the best of my knowledge, not mitigat
 - `cuyes.mooo.com`
 - `archaeology.social` 
 - `nasface.cz`
-- `quakers.social` 
-
+- `quakers.social`
+- `crosstalk.tech`
+- `fediverse.science`
+- `parkfans.network`
+- `s-h.social`
+- `vasra.masto.host`
+- `esglife.social`
+- `teamhydra.social`
+- `toot.quest`
 
 #### Threat Level 2: Store Spam but no longer send out Spam
 - `freemasonry.social` (*spam paused*) 
@@ -124,8 +132,6 @@ The admins of the below instances have, to the best of my knowledge, not mitigat
 - `rope-access-work.com` (*spam paused*)
 - `m.techsocial.site` (*spam paused*)
 - `rtypedbs.hostdon.ne.jp` (*spam paused*)
-
-
 
 #### Threat Level 1: Offline / Can't load home timeline
 - `cunnyborea.top` (*can't load home timeline*) 
@@ -254,7 +260,6 @@ These instances had spam but since have taken action in order to stop it. If any
 - ~~foss.place~~ (*[fixed](https://old.mermaid.town/@futzle/111950327071885006)*)
 - ~~mastodon-belgium.be~~ (*[fixed](https://old.mermaid.town/@futzle/111950327071885006)*)
 - ~~asturias.red~~ (*[fixed](https://old.mermaid.town/@futzle/111950327071885006)*)
-- ~~dreamersreality.dev~~ (*[fixed](https://old.mermaid.town/@futzle/111950327071885006)*)
 - ~~redpawcollective.co~~ (*[fixed](https://old.mermaid.town/@futzle/111950327071885006)*)
 - ~~mastodon.chrisduffley.com~~ (*[fixed](https://old.mermaid.town/@futzle/111950327071885006)*)
 - ~~krems.social~~ (*[fixed](https://old.mermaid.town/@futzle/111950327071885006)*)
@@ -270,7 +275,7 @@ These instances had spam but since have taken action in order to stop it. If any
 - ~~gametoots.de~~ (*[fixed](https://drive.proton.me/urls/ZMYAJPDF54#II2wUrd7FITp)*)
 - ~~home.speakfree.social~~ (*[fixed](https://drive.proton.me/urls/ZMYAJPDF54#II2wUrd7FITp)*)
 - ~~madworld.social~~ (*[fixed](https://madworld.social/@paulgeller/111948481048282743)*)
-- ~~mastdn.social~~ (*[fixed](https://drive.proton.me/urls/ZMYAJPDF54#II2wUrd7FITp)*)
+- ~~mastdn.social~~ (*[fixed](https://mastdn.social/@Chris/111969388188144272)*)
 - ~~mastodon.acm.org~~ (*[fixed](https://drive.proton.me/urls/ZMYAJPDF54#II2wUrd7FITp)*)
 - ~~mastodon.creation.md~~ (*[fixed](https://drive.proton.me/urls/ZMYAJPDF54#II2wUrd7FITp)*)
 - ~~mastodon.linuxmuster.net~~ (*[fixed](https://drive.proton.me/urls/ZMYAJPDF54#II2wUrd7FITp)*)
@@ -305,8 +310,9 @@ These instances had spam but since have taken action in order to stop it. If any
 - ~~sector25.de~~ (*fixed*)
 - ~~honk.masto.host~~ (*fixed*)
 - ~~basstdn.jp~~ (*fixed*)
-- ~~library.love~~ (*fixed*)
 - ~~tribe.net~~ (*fixed*)
+- ~~daytongang.social~~ (*fixed*)
+- ~~mastodon.berlin~~ (*fixed*)
 
 **Thank you for participating in the Fediverse Experiment!** Keep calm and rest a little after this huge amount of work! <br/> <br/>
 Yours in solidarity, <br/>
