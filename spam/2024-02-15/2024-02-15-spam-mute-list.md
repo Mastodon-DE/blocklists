@@ -1,7 +1,7 @@
 # Current Mute List
 Regarding the Fediverse Spam Attacks which started on the 15th of February (ongoing)
 
-**Last Updated:** 2024-02-21 | 14:06 GMT+1 <br/>
+**Last Updated:** 2024-02-21 | 15:38 GMT+1 <br/>
 **By:** Erik Uden (*mastodon.de, troet.cafe, muenchen.social*)
 
 ## Please Read:
@@ -72,6 +72,7 @@ The admins of the below instances have, to the best of my knowledge, not mitigat
 - `neuroscience-mastodon.com`
 - `mastodon.svgun.ru` 
 - `airwaves.social` 
+- `america.social`
 
 #### Threat Level 4: Were previously thought to be safe but still spam
 - `dreamersreality.dev` 
@@ -117,6 +118,11 @@ The admins of the below instances have, to the best of my knowledge, not mitigat
 - `esglife.social`
 - `teamhydra.social`
 - `toot.quest`
+- `bigballchunkyverse.online`
+- `closednetwork.social`
+- `detmi.social`
+- `themeparks.social`
+- `dtris.moe`
 
 #### Threat Level 2: Store Spam but no longer send out Spam
 - `freemasonry.social` (*spam paused*) 
@@ -124,7 +130,6 @@ The admins of the below instances have, to the best of my knowledge, not mitigat
 - `tabletop.vip` (*spam paused*) 
 - `terapeldigitaal.nl` (*spam paused*)
 - `worldtravel.photos` (*spam paused*)
-- `america.social` (*spam paused*)
 - `thoughtful.social` (*spam paused*)
 - `adforward.org` (*spam paused*)
 - `sensitive.hostdon.ne.jp` (*spam paused*)
@@ -314,6 +319,13 @@ These instances had spam but since have taken action in order to stop it. If any
 - ~~daytongang.social~~ (*fixed*)
 - ~~mastodon.berlin~~ (*[fixed](https://mastodon.berlin/@christoph/111969269170766570)*)
 - ~~fedibird.com~~ (*[fixed](https://fedibird.com/@noellabo/111969334550914142)*)
+- ~~exmormon.social~~ (*fixed*)
+- ~~iaccessibility.social~~ (*fixed*)
+- ~~pkm.social~~ (*fixed*)
+- ~~daytongang.social~~ (*fixed*)
+- ~~redwings.social~~ (*fixed*)
+- ~~masto.ukrainedao.love~~ (*fixed*)
+
 
 **Thank you for participating in the Fediverse Experiment!** Keep calm and rest a little after this huge amount of work! <br/> <br/>
 Yours in solidarity, <br/>
