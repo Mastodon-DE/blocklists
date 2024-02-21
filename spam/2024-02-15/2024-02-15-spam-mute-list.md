@@ -71,6 +71,7 @@ The admins of the below instances have, to the best of my knowledge, not mitigat
 - `forum-lucifer.com`
 - `neuroscience-mastodon.com`
 - `mastodon.svgun.ru` 
+- `airwaves.social` 
 
 #### Threat Level 4: Were previously thought to be safe but still spam
 - `dreamersreality.dev` 
@@ -264,7 +265,6 @@ These instances had spam but since have taken action in order to stop it. If any
 - ~~mastodon.chrisduffley.com~~ (*[fixed](https://old.mermaid.town/@futzle/111950327071885006)*)
 - ~~krems.social~~ (*[fixed](https://old.mermaid.town/@futzle/111950327071885006)*)
 - ~~430022.xyz~~ (*[fixed](https://drive.proton.me/urls/ZMYAJPDF54#II2wUrd7FITp)*)
-- ~~airwaves.social~~ (*[fixed](https://drive.proton.me/urls/ZMYAJPDF54#II2wUrd7FITp)*)
 - ~~bibletalk.social~~ (*[fixed](https://drive.proton.me/urls/ZMYAJPDF54#II2wUrd7FITp)*)
 - ~~boop.network~~ (*[fixed](https://drive.proton.me/urls/ZMYAJPDF54#II2wUrd7FITp)*)
 - ~~daotodon.me~~ (*[fixed](https://drive.proton.me/urls/ZMYAJPDF54#II2wUrd7FITp)*)

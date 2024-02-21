@@ -2,6 +2,7 @@
 academia.pub
 adforward.org
 aether.run
+airwaves.social
 archaeology.social
 besties.com
 bondsdogs.com
@@ -11,7 +12,6 @@ cryptodon.lol
 crosstalk.tech 
 cunnyborea.top
 cuyes.mooo.com
-daytongang.social
 developers.live
 devsrv.farhan.codes
 digitaldata.social
@@ -44,10 +44,8 @@ lllsecurity.com
 m.corduba.tech
 m.techsocial.site
 mastadon.astuto.cc
-mastdn.social
 mastodon-ero.xyz
 mastodon-swiss.org
-mastodon.berlin
 mastodon.conquestuniverse.com
 mastodon.creation.md
 mastodon.dtris.moe
