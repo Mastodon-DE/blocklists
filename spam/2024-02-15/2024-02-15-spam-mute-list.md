@@ -1,7 +1,7 @@
 # Current Mute List
 Regarding the Fediverse Spam Attacks which started on the 15th of February (ongoing)
 
-**Last Updated:** 2024-02-20 | 14:22 GMT+1 <br/>
+**Last Updated:** 2024-02-21 | 12:24 GMT+1 <br/>
 **By:** Erik Uden (*mastodon.de, troet.cafe, muenchen.social*)
 
 ## Please Read:
@@ -10,6 +10,7 @@ https://mastodon.de/@ErikUden/111940301222380638
 
 **Why did this Spam happen?** <br/>
 https://fedi.fyralabs.com/notes/9pth6oh3xr
+Apparently the people behind this spam have been arrested in Japan, it is still ongoing with a new method, however. An investigative report will follow by the Fyra Labs Crew. 
 
 ## Please Donate!
 **I've worked on this list for the good part of many days!** I am a university student, local politician, I run and organize food drives once a month, I run a holocaust remembrance museum, and *on the side* do these Mastodon instances (*troet.cafe, mastodon.de, muenchen.social*), which is why I would highly appreciate it for you to **[donate here](https://mastodon.de/@MastodonDE/110808633497349326)** so I can somehow justify spending so much time on this! Heh. 
