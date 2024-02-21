@@ -106,3 +106,4 @@ waterlily.tokyo
 westen.social
 wpmastodon.es
 zettel.haus
+mastodon.miri.site
