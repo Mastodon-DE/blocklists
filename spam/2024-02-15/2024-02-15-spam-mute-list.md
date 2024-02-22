@@ -58,29 +58,19 @@ The admins of the below instances have, to the best of my knowledge, not mitigat
 
 #### Threat Level 5: Had Spam for a long time
 - `cmm.fyi`
-- `forestver.se`
-- `cryptodon.lol`
-- `freesocial.co`
-- `scfzfilm.org`
-- `fusionpros.social`
-- `kokuusa.club`
-- `edusocial.it`
-- `educhat.social`
-- `cherryberry.pink`
+- `forestver.se` (last checked: 22.02.24)
+- `cryptodon.lol` (last checked: 22.02.24)
+- `freesocial.co` (last checked: 22.02.24)
+- `scfzfilm.org` (last checked: 22.02.24)
+- `kokuusa.club` (last checked: 22.02.24)
+- `edusocial.it` (last checked: 22.02.24)
 - `9kb.me` (*new iteration of same spam detected*)
-- `kernkraft.social`
-- `kommunismus.social`
-- `bondsdogs.com`
-- `forum-lucifer.com`
-- `neuroscience-mastodon.com`
-- `mastodon.svgun.ru` 
-- `airwaves.social` 
-- `america.social`
+- `bondsdogs.com` (last checked: 22.02.24)
+- `neuroscience-mastodon.com` (last checked: 22.02.24)
+- `mastodon.svgun.ru` (last checked: 22.02.24)
 
 #### Threat Level 4: Were previously thought to be safe but still spam
-- `dreamersreality.dev` 
-- `library.love`
-- `masto.ukrainedao.love`
+- `forum-lucifer.com` (last checked: 22.02.24)
 
 
 #### Threat Level 3: Currently sending out spam posts
@@ -112,7 +102,6 @@ The admins of the below instances have, to the best of my knowledge, not mitigat
 - `cuyes.mooo.com`
 - `archaeology.social` 
 - `nasface.cz`
-- `quakers.social`
 - `crosstalk.tech`
 - `fediverse.science`
 - `parkfans.network`
@@ -166,6 +155,10 @@ The admins of the below instances have, to the best of my knowledge, not mitigat
 - `tut.andreer.no` (*offline*)
 - `pouet.evolix.org` (*home timeline empty*)
 - `mentalhealthmasto.com` (*offline*)
+- `fusionpros.social` (*offline*)
+- `cherryberry.pink` (*offline*)
+- `kernkraft.social` (*offline*)
+
 
 ### Refederate with or unmute // Spam stopped
 
@@ -328,6 +321,22 @@ These instances had spam but since have taken action in order to stop it. If any
 - ~~daytongang.social~~ (*fixed*)
 - ~~redwings.social~~ (*fixed*)
 - ~~masto.ukrainedao.love~~ (*fixed*)
+- ~~mastodon.miri.site~~ (*fixed*)
+- ~~quakers.social~~ (*fixed*)
+- ~~amigosblasterradio.masto.host~~ (*fixed*)
+- ~~castilla.social~~ (*fixed*)
+- ~~fpl.social~~ (*fixed*)
+- ~~mastodon.com.py~~ (*fixed*)
+- ~~qa.social~~ (*fixed*)
+- ~~social.purrucker.de~~ (*fixed*)
+- `educhat.social` (*fixed*)
+- `kommunismus.social` (*fixed*)
+- `airwaves.social` (*fixed*)
+- `america.social` (*fixed*)
+- `dreamersreality.dev` (*fixed*)
+- `library.love` (*fixed*)
+- `masto.ukrainedao.love` (*fixed*)
+
 
 
 **Thank you for participating in the Fediverse Experiment!** Keep calm and rest a little after this huge amount of work! <br/> <br/>

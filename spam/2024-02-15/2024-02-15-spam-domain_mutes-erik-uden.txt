@@ -2,8 +2,6 @@
 academia.pub
 adforward.org
 aether.run
-airwaves.social
-america.social
 archaeology.social
 besties.com
 bigballchunkyverse.online
@@ -22,9 +20,7 @@ digitaldata.social
 discourse.helenprejean.org
 don.blognot.co
 don.neet.co.jp
-dreamersreality.dev
 dtris.moe
-educhat.social
 edusocial.it
 electroverse.tech
 esglife.social
@@ -41,9 +37,7 @@ i.transmit.love
 kernkraft.social
 kfem.cat
 kokuusa.club
-kommunismus.social
 kotodama.space
-library.love
 lllsecurity.com
 m.corduba.tech
 m.techsocial.site
@@ -77,7 +71,6 @@ owo.town
 parkfans.network
 phyrexia.ru
 pouet.evolix.org
-quakers.social
 rope-access-work.com
 rtypedbs.hostdon.ne.jp
 rtypedbs.hostdon.ne.jp
@@ -106,4 +99,4 @@ waterlily.tokyo
 westen.social
 wpmastodon.es
 zettel.haus
-mastodon.miri.site
+
