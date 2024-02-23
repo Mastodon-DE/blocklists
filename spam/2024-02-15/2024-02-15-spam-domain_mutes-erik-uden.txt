@@ -1,3 +1,4 @@
+
 9kb.me
 academia.pub
 adforward.org
@@ -9,8 +10,8 @@ bondsdogs.com
 cherryberry.pink
 closednetwork.social
 cmm.fyi
+crosstalk.tech
 cryptodon.lol
-crosstalk.tech 
 cunnyborea.top
 cuyes.mooo.com
 detmi.social
@@ -46,8 +47,8 @@ mastodon-ero.xyz
 mastodon-swiss.org
 mastodon.conquestuniverse.com
 mastodon.creation.md
-mastodon.dtris.moe
 mastodon.dragonbox.de
+mastodon.dtris.moe
 mastodon.education
 mastodon.integrata-stiftung.de
 mastodon.io.seg.br
@@ -59,8 +60,8 @@ mastodon.unpluggedrva.com
 mentalhealth-masto.com
 mentalhealthmasto.com
 molaguay.xyz
-nasface.cz
 narikiri.hostdon.ne.jp
+nasface.cz
 neuroscience-mastodon.com
 neuss.social
 niederbayern.social
@@ -74,6 +75,7 @@ pouet.evolix.org
 rope-access-work.com
 rtypedbs.hostdon.ne.jp
 rtypedbs.hostdon.ne.jp
+s-h.social
 scfzfilm.org
 sensitive.hostdon.ne.jp
 smooth.guru
@@ -81,17 +83,16 @@ social.cezeri.tech
 social.consoledated.com
 social.cutefunny.net
 social.tcpcat.net
-s-h.social
 tambayan.us
 tcpcat.net
 teamhydra.social
 tech.retrotalk.live
 terere.social
-thoughtful.social
 themeparks.social
+thoughtful.social
 toot.poedelwitz.de
-tootnet.nl
 toot.quest
+tootnet.nl
 tut.andreer.no
 vasra.masto.host
 vivere.uno
@@ -99,4 +100,3 @@ waterlily.tokyo
 westen.social
 wpmastodon.es
 zettel.haus
-

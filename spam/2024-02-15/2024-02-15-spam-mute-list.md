@@ -68,6 +68,7 @@ The admins of the below instances have, to the best of my knowledge, not mitigat
 - `mastodon.svgun.ru` (last checked: 22.02.24)
 - `neuroscience-mastodon.com` (last checked: 22.02.24)
 - `scfzfilm.org` (last checked: 22.02.24)
+- `tambayan.us` (last checked: 23.02.24 04:37 CEST)
 
 #### Threat Level 4: Were previously thought to be safe but still spam
 - `discourse.helenprejean.org` (last checked: 23.02.24 03:20 cest)
