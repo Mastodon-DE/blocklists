@@ -103,7 +103,6 @@ The admins of the below instances have, to the best of my knowledge, not mitigat
 - `parkfans.network`
 - `phyrexia.ru`
 - `s-h.social`
-- `social.tcpcat.net`
 - `teamhydra.social`
 - `themeparks.social`
 - `toot.poedelwitz.de`
@@ -153,29 +152,30 @@ The admins of the below instances have, to the best of my knowledge, not mitigat
 
 These instances had spam but since have taken action in order to stop it. If any other lists tell you to defederate from these instances, they're probably outdated. 
 
--`airwaves.social` (*fixed*)
+- `adforward.org` (*fixed*)
+- `airwaves.social` (*fixed*)
+- `america.social` (*fixed*)
+- `asturias.red` (*fixed*) 
+- `closednetwork.social` (*fixed*)
+- `crosstalk.tech` (*fixed*)
+- `detmi.social` (*fixed*)
+- `dreamersreality.dev` (*fixed*)
+- `educhat.social` (*fixed*)
 - `esglife.social` (*fixed*)
 - `fediverse.science` (*fixed*)
+- `kommunismus.social` (*fixed*)
+- `library.love` (*fixed*)
+- `m.qqs.tw` (*fixed*)
+- `masto.ukrainedao.love` (*fixed*)
+- `molaguay.xyz` (*fixed*)
 - `owo.town` (*fixed*)
-- `toot.quest` (*fixed*)
+- `rope-access-work.com` (*fixed*)
 - `social.learntosolveit.com` (*fixed*) 
--`m.qqs.tw` (*fixed*)
--`tabletop.vip` (*fixed*) 
--`adforward.org` (*fixed*)
--`asturias.red` (*fixed*) 
--`rope-access-work.com` (*fixed*)
--`terapeldigitaal.nl` (*fixed*)
--`worldtravel.photos` (*fixed*)
--`america.social` (*fixed*)
--`dreamersreality.dev` (*fixed*)
--`educhat.social` (*fixed*)
--`kommunismus.social` (*fixed*)
--`library.love` (*fixed*)
--`detmi.social` (*fixed*)
--`masto.ukrainedao.love` (*fixed*)
--`molaguay.xyz` (*fixed*)
--`closednetwork.social` (*fixed*)
--`crosstalk.tech` (*fixed*)
+- `social.tcpcat.net` (*fixed*)
+- `tabletop.vip` (*fixed*) 
+- `terapeldigitaal.nl` (*fixed*)
+- `toot.quest` (*fixed*)
+- `worldtravel.photos` (*fixed*)
 -0x3c.pl (*[fixed](https://0x3c.pl/@centrala/111951816200466414)*)
 -430022.xyz (*[fixed](https://drive.proton.me/urls/ZMYAJPDF54#II2wUrd7FITp)*)
 -academia.pub (*fixed*)
@@ -336,8 +336,7 @@ These instances had spam but since have taken action in order to stop it. If any
 -worldnl.com (*fixed*) 
 -xn--zck4ad5f2e.xn--q9jyb4c (*fixed*) 
 -xreality.social (*fixed*)
--zirk.us (*fixed*) 
-
+-zirk.us (*fixed*)
 
 
 **Thank you for participating in the Fediverse Experiment!** Keep calm and rest a little after this huge amount of work! <br/> <br/>
