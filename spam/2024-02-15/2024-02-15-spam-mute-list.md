@@ -1,7 +1,7 @@
 # Current Mute List
 Regarding the Fediverse Spam Attacks which started on the 15th of February (ongoing)
 
-**Last Updated:** 2024-02-22 | 08:22 GMT+1 <br/>
+**Last Updated:** 2024-03-02 | 21:24 GMT+1 <br/>
 **By:** Erik Uden (*mastodon.de, troet.cafe, muenchen.social*)
 
 ## Please Read:
@@ -9,8 +9,8 @@ Regarding the Fediverse Spam Attacks which started on the 15th of February (ongo
 https://mastodon.de/@ErikUden/111940301222380638
 
 **Why did this Spam happen?** <br/>
-https://fedi.fyralabs.com/notes/9pth6oh3xr
-Apparently the people behind this spam have been arrested in Japan, it is still ongoing with a new method, however. An investigative report will follow by the Fyra Labs Crew. 
+https://blog.fyralabs.com/cyberbullying-gone-global-regarding-the-fediverse-spam-and-operation-beleaguer/
+Apparently the people behind this spam have been arrested in Japan. 
 
 **Also Note** <br/>
 Importing this list will not affect the status of instances you have already moderated! While all this list does is mute, if any of the instances on this list are already suspended by you, that entry will not be changed (*on Mastodon*). 
@@ -57,50 +57,13 @@ Note that it only makes sense to import this list and mute the spam instances if
 The admins of the below instances have, to the best of my knowledge, not mitigated the spam issue, muting them would be helpful to stop spam reaching your users. 
 
 #### Threat Level 5: Had Spam for a long time
-- `cmm.fyi`
-- `forestver.se` (last checked: 22.02.24)
-- `cryptodon.lol` (last checked: 22.02.24)
-- `freesocial.co` (last checked: 22.02.24)
-- `scfzfilm.org` (last checked: 22.02.24)
-- `kokuusa.club` (last checked: 22.02.24)
-- `edusocial.it` (last checked: 22.02.24)
-- `9kb.me` (*new iteration of same spam detected*)
-- `bondsdogs.com` (last checked: 22.02.24)
-- `neuroscience-mastodon.com` (last checked: 22.02.24)
-- `mastodon.svgun.ru` (last checked: 22.02.24)
+- N/A
 
 #### Threat Level 4: Were previously thought to be safe but still spam
-- `forum-lucifer.com` (last checked: 22.02.24)
+- N/A
 
 
 #### Threat Level 3: Currently sending out spam posts
-- `witten.social`
-- `game-tecx.de`
-- `groupsebelah.com`
-- `phyrexia.ru`
-- `don.neet.co.jp`
-- `besties.com`
-- `electroverse.tech`
-- `lllsecurity.com`
-- `digitaldata.social`
-- `aether.run`
-- `mentalhealth-masto.com`
-- `mastodon.snmsoc.org`
-- `waterlily.tokyo`
-- `mastodon.integrata-stiftung.de`
-- `mastodon-ero.xyz`
-- `mastadon.astuto.cc`
-- `i.transmit.love`
-- `tootnet.nl`
-- `mastodon.education`
-- `niederbayern.social`
-- `social.tcpcat.net`
-- `m.corduba.tech`
-- `owo.town`
-- `toot.poedelwitz.de`
-- `neuss.social`
-- `cuyes.mooo.com`
-- `archaeology.social` 
 - `nasface.cz`
 - `crosstalk.tech`
 - `fediverse.science`
@@ -131,6 +94,13 @@ The admins of the below instances have, to the best of my knowledge, not mitigat
 - `rope-access-work.com` (*spam paused*)
 - `m.techsocial.site` (*spam paused*)
 - `rtypedbs.hostdon.ne.jp` (*spam paused*)
+- `9kb.me` (*spam paused*)
+- `cmm.fyi` (*spam paused*)
+- `freesocial.co` (*spam paused*)
+- `lllsecurity.com` (*spam paused*)
+- `waterlily.tokyo` (*spam paused*)
+- `i.transmit.love` (*spam paused*)
+- `niederbayern.social` (*spam paused*)
 
 #### Threat Level 1: Offline / Can't load home timeline
 - `cunnyborea.top` (*can't load home timeline*) 
@@ -158,6 +128,17 @@ The admins of the below instances have, to the best of my knowledge, not mitigat
 - `fusionpros.social` (*offline*)
 - `cherryberry.pink` (*offline*)
 - `kernkraft.social` (*offline*)
+- `cryptodon.lol` (*offline*)
+- `scfzfilm.org` (*offline*)
+- `kokuusa.club` (*offline*)
+- `edusocial.it` (*offline*)
+- `bondsdogs.com` (*offline*)
+- `neuroscience-mastodon.com` (*offline*)
+- `game-tecx.de` (*offline*)
+- `digitaldata.social` (*offline*)
+- `mastadon.astuto.cc` (*offline*)
+- `archaeology.social` (*offline*)
+- `cuyes.mooo.com` (*can't see home timeline*)
 
 
 ### Refederate with or unmute // Spam stopped
@@ -329,13 +310,34 @@ These instances had spam but since have taken action in order to stop it. If any
 - ~~mastodon.com.py~~ (*fixed*)
 - ~~qa.social~~ (*fixed*)
 - ~~social.purrucker.de~~ (*fixed*)
-- `educhat.social` (*fixed*)
-- `kommunismus.social` (*fixed*)
-- `airwaves.social` (*fixed*)
-- `america.social` (*fixed*)
-- `dreamersreality.dev` (*fixed*)
-- `library.love` (*fixed*)
-- `masto.ukrainedao.love` (*fixed*)
+- ~~educhat.social~~ (*fixed*)
+- ~~kommunismus.social~~ (*fixed*)
+- ~~airwaves.social~~ (*fixed*)
+- ~~america.social~~ (*fixed*)
+- ~~dreamersreality.dev~~ (*fixed*)
+- ~~library.love~~ (*fixed*)
+- ~~masto.ukrainedao.love~~ (*fixed*)
+- ~~forestver.se~~ (*fixed*)
+- ~~mastodon.svgun.ru~~ (*fixed*)
+- ~~forum-lucifer.com~~ (*fixed*)
+- ~~witten.social~~ (*fixed*)
+- ~~groupsebelah.com~~ (*fixed*)
+- ~~social.tcpcat.net~~ (*fixed*)
+- ~~phyrexia.ru~~ (*fixed*)
+- ~~don.neet.co.jp~~ (*fixed*)
+- ~~besties.com~~ (*fixed*)
+- ~~electroverse.tech~~ (*fixed*)
+- ~~aether.run~~ (*fixed*)
+- ~~mentalhealth-masto.com~~ (*fixed*)
+- ~~mastodon.snmsoc.org~~ (*fixed*)
+- ~~mastodon.integrata-stiftung.de~~ (*fixed*)
+- ~~mastodon-ero.xyz~~ (*fixed*)
+- ~~tootnet.nl~~ (*fixed*)
+- ~~mastodon.education~~ (*fixed*)
+- ~~m.corduba.tech~~ (*fixed*)
+- ~~owo.town~~ (*fixed*)
+- ~~toot.poedelwitz.de~~ (*fixed*)
+- ~~neuss.social~~ (*fixed*)
 
 
 
