@@ -1,7 +1,7 @@
 # Current Mute List
 Regarding the Operation Beleaguer Fediverse Spam Attacks that started on the 15th of February (ongoing)
 
-**Last Updated:** 2024-04-19 | 16:43 UTC <br/>
+**Last Updated:** 2024-04-19 | 17:43 UTC <br/>
 **By:** Erik Uden (*mastodon.de, troet.cafe, muenchen.social*)
 
 ## Please Read:
@@ -45,7 +45,7 @@ Note that it only makes sense to import this list and mute the spam instances if
 
 **Operation Beleaguer: official name of the current spam wave**
 
-**Most recent spam wave: March 29th**
+**Most recent spam wave: March 30th**
 
 As of writing this update, the most recent spam wave tied to the original exploit from February 15th seems to have been on March 29th.
 
@@ -63,25 +63,25 @@ As of writing this update, the most recent spam wave tied to the original exploi
 The admins of the below instances have, to the best of my knowledge, not mitigated the spam issue, muting them would be helpful to stop spam reaching your users. 
 
 #### Threat Level 5: Had Spam for a long time
-- `9kb.me` (*[Most recently Mar 25](https://9kb.me/@bhkewcmcak/112160637946679465), [dating back until at least Feb 24](https://9kb.me/@bhkewcmcak/111986409328406660)*)
-- `bigballchunkyverse.online`(*[Most recently Mar 29](https://nasface.cz/@1yltv7ncvx/112183056969215526), [dating back until at least Feb 24](https://nasface.cz/@nkwycfznft/111986408091957912)*)
-- `discourse.helenprejean.org` (*[Most recently Mar 29](https://discourse.helenprejean.org/@qzuq2ncrdi/112183058091942742), [dating back until at least Feb 24](https://discourse.helenprejean.org/@qzuq2ncrdi/111986410587252489)*)
-- `i.transmit.love` (*[Most recently Mar 29](https://i.transmit.love/@h7gmkr0sqn), [dating back until at least Feb 24](https://i.transmit.love/@rjpykwkhdc/111986409811714035)*)
-- `nasface.cz`
-- `niederbayern.social` (*[Most recently Mar 29](https://niederbayern.social/@0shlgh4erw/112183058083021147). [dating back until at least Feb 24](https://niederbayern.social/@9ztsupzynz/111986410388307284)*)
+- `9kb.me` (*[Most recently Mar 26](https://9kb.me/@bhkewcmcak/112160637946679465), [dating back until at least Feb 24](https://9kb.me/@bhkewcmcak/111986409328406660)*)
+- `bigballchunkyverse.online`(*[Most recently Mar 30](https://nasface.cz/@1yltv7ncvx/112183056969215526), [dating back until at least Feb 24](https://nasface.cz/@nkwycfznft/111986408091957912)*)
+- `discourse.helenprejean.org` (*[Most recently Mar 30](https://discourse.helenprejean.org/@qzuq2ncrdi/112183058091942742), [dating back until at least Feb 24](https://discourse.helenprejean.org/@qzuq2ncrdi/111986410587252489)*)
+- `i.transmit.love` (*[Most recently Mar 30](https://i.transmit.love/@h7gmkr0sqn), [dating back until at least Feb 24](https://i.transmit.love/@rjpykwkhdc/111986409811714035)*)
+- `nasface.cz` (*[Most recently Mar 30](https://nasface.cz/@1yltv7ncvx/112183056969215526), [dating back until at least Feb 24](https://nasface.cz/@ksh1oimypq/111986410274784798)*)
+- `niederbayern.social` (*[Most recently Mar 30](https://niederbayern.social/@0shlgh4erw/112183058083021147). [dating back until at least Feb 24](https://niederbayern.social/@9ztsupzynz/111986410388307284)*)
 
 #### Threat Level 4: Were previously thought to be safe but still spam
-- `lllsecurity.com` (*[Most recently Mar 29](https://lllsecurity.com/@vl8eutxiwb), [previously cleared around Mar 8](https://mastodon.social/@gunchleoc@ailbhean.co-shaoghal.net/112061352971583639)*)
+- `lllsecurity.com` (*[Most recently Mar 30](https://lllsecurity.com/@vl8eutxiwb), [previously cleared around Mar 8](https://mastodon.social/@gunchleoc@ailbhean.co-shaoghal.net/112061352971583639)*)
 
 
 #### Threat Level 3: Currently sending out spam posts
 - N/A
 
 #### Threat Level 2: Store Spam but no longer send out Spam
-- `freesocial.co` (*[Spam paused on Feb 19](https://freesocial.co/@kwmk7mbqhx/111962288796215750)*)
-- `rtypedbs.hostdon.ne.jp` (*[Spam paused on Feb 19](https://rtypedbs.hostdon.ne.jp/@g9fbx3zkjm/111962200727337840)*)
+- `freesocial.co` (*[Spam paused on Feb 20](https://freesocial.co/@kwmk7mbqhx/111962288796215750)*)
+- `rtypedbs.hostdon.ne.jp` (*[Spam paused on Feb 20](https://rtypedbs.hostdon.ne.jp/@g9fbx3zkjm/111962200727337840)*)
 - `sensitive.hostdon.ne.jp` (*[Spam paused on Feb 19](https://sensitive.hostdon.ne.jp/@ghykv7y6g1/111960427058585032)*)
-- `thoughtful.social` (*[Spam paused on Feb 19](https://thoughtful.social/@mzjzvifkwx/111961600977629070)*)
+- `thoughtful.social` (*[Spam paused on Feb 20](https://thoughtful.social/@mzjzvifkwx/111961600977629070)*)
 
 #### Threat Level 1: Offline / Can't load home timeline
 - `archaeology.social` (*Offline*)
