@@ -9,14 +9,14 @@ Regarding the Fediverse Spam Attacks that started on the 15th of February (ongoi
 https://mastodon.de/@ErikUden/111940301222380638
 
 **Why did this Spam happen?** <br/>
-https://blog.fyralabs.com/cyberbullying-gone-global-regarding-the-fediverse-spam-and-operation-beleaguer/
+https://blog.fyralabs.com/cyberbullying-gone-global-regarding-the-fediverse-spam-and-operation-beleaguer/ </br>
 Apparently the people behind this spam have been arrested in Japan. 
 
 **Also Note** <br/>
 Importing this list will not affect the status of instances you have already moderated! While all this list does is mute, if any of the instances on this list are already suspended by you, that entry will not be changed (*on Mastodon*). 
 
 ## Please Donate!
-**I've worked on this list for the good part of many days!** I am a university student, local politician, I run and organize food drives once a month, I run a holocaust remembrance museum, and *on the side* do these Mastodon instances (*troet.cafe, mastodon.de, muenchen.social*), which is why I would highly appreciate it for you to **[donate here](https://mastodon.de/@MastodonDE/110808633497349326)** so I can somehow justify spending so much time on this! Heh. 
+**I've worked on this list for the good part of many days!** I am a university student, local politician, I run and organize food drives once a month, I run a holocaust remembrance exhibition, and *on the side* do these Mastodon instances (*troet.cafe, mastodon.de, muenchen.social*), which is why I would highly appreciate it for you to **[donate here](https://mastodon.de/@MastodonDE/110808633497349326)** so I can somehow justify spending so much time on this! Heh. 
 
 ## Your Instance Should not be here?
 If you're the admin of an instance listed here and you've taken care of the spam issue and do not think what we wrote about your instance here is accurate, or you do not know why you're on this list at all, please message me on Matrix (*[ErikUden:matrix.org](https://matrix.to/#/@erikuden:matrix.org)*) or E-Mail (*[fedi-spam@uden.ai](mailto:fedi-spam@uden.ai)*). I sincerely apologize for putting you on here and causing trouble!
@@ -24,6 +24,7 @@ If you're the admin of an instance listed here and you've taken care of the spam
 ### Special thanks to:
 - [@graphite@eepy.zone](https://shonk.phite.ro/@graphite) for making me aware of this issue (*2024-02-15 | 18:42 GMT+1*)!
 - [@martinmuc@muenchen.social](https://muenchen.social/@martinmuc) for making me aware of this issue (*2024-02-16 | 08:32 GMT+1*)!
+- [@lety@doesstuff.social](https://doesstuff.social/@lety) for checking the list long after the spam was over!
 - [@Sleagle@mastodon.de](https://mastodon.de/@Sleagle) for helping me create this spam list!
 - [@FanCityKnits@troet.cafe](https://troet.cafe/@FanCityKnits) & [@catflyhigh@troet.cafe](https://troet.cafe/@catflyhigh) for reporting hundreds of spammers to troet.cafe!
 
