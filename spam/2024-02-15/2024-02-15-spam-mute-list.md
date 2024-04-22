@@ -1,10 +1,30 @@
-# Current Mute List
+# Current Mute List - 4.0.0: The UNmute List
 Regarding the Fediverse Spam Attacks that started on the 15th of February (ongoing)
 
 **Last Updated:** 2024-04-22 | 16:47 UTC <br/>
 **By:** Erik Uden (*mastodon.de, troet.cafe, muenchen.social*)
 
 ## Please Read:
+**Final Update - 2024.04.22**
+This specific spam wave is now over. I am thankful to everyone involved and urge every Fedi-Admin to unmute every instance that is no longer on this list! The only instances still on this list are:
+- **A)** Those instances where spam is still stored, meaning the admins never logged in to remove it and the spam simply stopped because the spammers got arrested. 
+- **B)** The instances that went offline and hence could return with spam if they ever go online again. 
+
+If your instance is on this list it means you haven't responded to this spam problem for over two months. The admins of these instances have abandoned them, hence they can be used for the next spam attack just like they were used for this one! Hey, this list is *generous*, some instances have been removed from here because their admins were contacted through Instagram or other third-party platforms and notified of what is going on over here on the part of the internet they *should* be taking responsibility for. If people of the Fediverse have to go through these lengths to tell you what is going on with your server, well... heh! I can't really complain, [I've been in the same spot and have committed the same cardinal sin](https://mastodon.de/@ErikUden/111483146986978449). **I am willing to forgive every admin, even if it has come this far!** Just reach out and I'll get your instance off this list even if this was my "final" update ;)!
+
+Lists like these will likely never need to be shared again! Remember this moment, as it is an integral part of Fediverse history ***you*** were a part of! IFTAS is already working on shared blocklists, meaning you can subscribe to a list where instances automatically get added or removed, making this entire thing obsolete in the future! Also, Mastodon has created some standards for newer versions where an instance automatically turns off sign-ups if an Admin account doesn't login for some time, which would've stopped 99% of the spam instances after the first day. Deleting posts or banning users by keywords will also be added, similar to the script that fixed spam entirely which many big instances got from the Mastodon team. Also notification filters have been added so new accounts can't even be used for spam. So much has changed...
+
+This problem we faced has, as of now, been crushed into the ground with no sight of recovery. Tools like this list will likely never be needed again to fix any spam problem, which is exciting! 
+
+I cannot thank the people that helped here enough, truly! Additionally, everyone that shared this list and talked about it publicly just made my day, from [Brodie Robertson](https://youtu.be/_KCwq9e-H5M?feature=shared&t=654) to [TechCrunch](https://techcrunch.com/2024/02/20/spam-attack-on-twitter-x-rival-mastodon-highlights-fediverse-vulnerabilities/) it was surprising to see how many people this list spread to and possibly helped!
+
+Thank you, Fediverse Community!
+*Doing any work for you **always** feels rewarding!* <3
+
+Yours in solidarity,
+Erik Uden
+
+
 **How To Ban Spam Accounts Locally (and Sustainably)** <br/>
 https://mastodon.de/@ErikUden/111940301222380638
 
