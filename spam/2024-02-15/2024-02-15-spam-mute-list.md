@@ -1,7 +1,7 @@
 # Current Mute List
 Regarding the Fediverse Spam Attacks that started on the 15th of February (ongoing)
 
-**Last Updated:** 2024-04-19 | 17:43 UTC <br/>
+**Last Updated:** 2024-04-22 | 16:47 UTC <br/>
 **By:** Erik Uden (*mastodon.de, troet.cafe, muenchen.social*)
 
 ## Please Read:
@@ -67,9 +67,10 @@ The admins of the below instances have, to the best of my knowledge, not mitigat
 - `i.transmit.love` (*[Most recently Mar 30](https://i.transmit.love/@h7gmkr0sqn), [dating back until at least Feb 24](https://i.transmit.love/@rjpykwkhdc/111986409811714035)*)
 - `nasface.cz` (*[Most recently Mar 30](https://nasface.cz/@1yltv7ncvx/112183056969215526), [dating back until at least Feb 24](https://nasface.cz/@ksh1oimypq/111986410274784798)*)
 - `niederbayern.social` (*[Most recently Mar 30](https://niederbayern.social/@0shlgh4erw/112183058083021147). [dating back until at least Feb 24](https://niederbayern.social/@9ztsupzynz/111986410388307284)*)
+- `lllsecurity.com` (*[Most recently Mar 30](https://lllsecurity.com/@vl8eutxiwb), [previously cleared around Mar 8](https://mastodon.social/@gunchleoc@ailbhean.co-shaoghal.net/112061352971583639)*)
 
 #### Threat Level 4: Were previously thought to be safe but still spam
-- `lllsecurity.com` (*[Most recently Mar 30](https://lllsecurity.com/@vl8eutxiwb), [previously cleared around Mar 8](https://mastodon.social/@gunchleoc@ailbhean.co-shaoghal.net/112061352971583639)*)
+- N/A
 
 
 #### Threat Level 3: Currently sending out spam posts
@@ -340,3 +341,4 @@ These instances had spam but since have taken action in order to stop it. If any
 Yours in solidarity, <br/>
 [Erik Uden](https://erikuden.com) <br/>
 *Creator of mastodon.de*
+*Admin of troet.cafe*
