@@ -1,5 +1,5 @@
 # Current Mute List
-Regarding the Operation Beleaguer Fediverse Spam Attacks that started on the 15th of February (ongoing)
+Regarding the Fediverse Spam Attacks that started on the 15th of February (ongoing)
 
 **Last Updated:** 2024-04-19 | 17:43 UTC <br/>
 **By:** Erik Uden (*mastodon.de, troet.cafe, muenchen.social*)
@@ -42,8 +42,6 @@ Alternatively press on `Settings => Moderation => Federation => Import` to impor
 Note that it only makes sense to import this list and mute the spam instances if you've blocked spam locally and sustainably as described [here](https://mastodon.de/@ErikUden/111940301222380638). 
 
 ### Explanation/Glossary
-
-**Operation Beleaguer: official name of the current spam wave**
 
 **Most recent spam wave: March 30th**
 
